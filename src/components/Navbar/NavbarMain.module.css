@@ -1,0 +1,18 @@
+.mainNavbar {
+    background-color: white;
+    height: 4rem;
+    border-bottom: 2px solid grey;
+}
+
+.anchor {
+  color: white;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.mainNavbar a:hover,
+.mainNavbar a:active,
+.mainNavbar a.active {
+  color: #95bcf0;
+  padding-bottom: 0.25rem;
+}

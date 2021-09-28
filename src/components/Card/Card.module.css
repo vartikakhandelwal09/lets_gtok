@@ -1,0 +1,51 @@
+.cardDiv{
+    height: 200px;
+    background: white;
+    width: 60%;
+    margin-top: 20px;
+    margin-right: 20%;
+    margin-left: 20%;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.statusDiv{
+    margin-left: 10%;
+    background-color: rgb(233, 233, 233);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 40%;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.statusPara{
+    font-family: Poppins;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
+.description{
+    color: black;
+    font-size: 18px;
+    font-family: Poppins;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+.author{
+    color: black;
+    font-size: 15px;
+    font-family: Poppins;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+.time{
+    color: black;
+    font-size: 12px;
+    font-family: Poppins;
+    margin-left: 10%;
+    
+}

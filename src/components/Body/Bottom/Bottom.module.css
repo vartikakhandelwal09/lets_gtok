@@ -1,0 +1,37 @@
+.bottomDiv {
+  height: 500px;
+  background-color: #000000;
+  background-image: linear-gradient(315deg, #000000 0%, #a29bfe 74%);
+  padding-top: 175px;
+  margin-top: 720px;
+}
+
+.bottomInnerDiv{
+    background-color: white;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    width: 40%;
+    margin-left: 10%;
+}
+
+.heading{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+}
+
+.description{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+}
+
+.button{
+    width: 20%;
+    background-color: purple;
+    border-radius: 10px;
+}
